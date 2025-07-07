@@ -1,8 +1,6 @@
-# 📊 Excel for Data Analytics - Full Course
+# 📊 Excel for Data Analytics 
 
 ## Table of Contents
-
-
 
 ### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
 - Worksheets
