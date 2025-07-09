@@ -29,3 +29,12 @@
 - Conditional Formatting
 - Formatting
 - Collaboration
+### ✅ Dashboard Project Completed
+
+After completing Chapters 3 and 4, I built a **Dashboard Project** using the concepts of charts, tables, and conditional formatting.
+
+📍 **Check the project here:** [Dashboard Project Folder](/4_Spreadsheets_Advanced)
+
+🖼️ **Preview:**
+
+![Dashboard Screenshot](/4_Spreadsheets_Advanced/asset/salary_calculator_dashboard.png)
