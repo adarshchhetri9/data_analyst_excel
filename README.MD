@@ -38,3 +38,21 @@ After completing Chapters 3 and 4, I built a **Dashboard Project** using the con
 🖼️ **Preview:**
 
 ![Dashboard Screenshot](/4_Spreadsheets_Advanced/asset/salary_calculator_dashboard.png)
+
+### [Chapter 5: Pivot Tables](/5_Pivot_Tables/)
+- Pivot Tables
+- Pivot Charts
+- Pivot Tables Advanced
+### [Chapter 6: Advanced Data Analysis](/6_Advanced_Data_Analysis/)
+- Analysis Add-ins
+- Solver
+- Scenario Manager
+- Goal Seek
+- Data Tables
+### [Chapter 7: Power Query](/7_Power_Query/)
+- Power Query
+- Power Query Editor
+- Power Query M Language
+- Power Query Advanced
+### [Chapter 8: Power Pivot](/8_Power_Pivot/)
+- Power Pivot
